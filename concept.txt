@@ -1,0 +1,15 @@
+Terminal Qryzo: The Result of 6 Months of Engineering
+
+After half a year of intense development and constant iteration, Terminal Qryzo v4.1 has evolved into a high-tier command center for digital assets. This isn't just a basic interface; it’s a professional utility built for those who need deep market insights without the friction of traditional platforms.
+
+Core Capabilities:
+
+Deep Market Intelligence: Qryzo goes beyond simple tracking. Its neural engine identifies dynamic support and resistance levels while providing clear Long and Short outlooks. It interprets market structures to suggest specific entry points based on real-time momentum.
+
+Advanced Contract Scanning: The terminal features an integrated "Degen Mode" specifically designed for the fast-paced Solana ecosystem. By simply pasting a contract address into the chat, the system triggers an in-depth risk and liquidity audit, giving you a clear picture of the asset's health instantly.
+
+Live, Unfiltered Data: Speed is everything. Every metric within the terminal—from the global price ticker to the detailed 7-day charts—is fed by a real-time data stream. You get live updates on Market Cap, volume, and price action directly as it happens on the chain.
+
+Barrier-Free Access: I believe high-level tools should be accessible. Terminal Qryzo is 100% free and operates under a strict no-login policy. No accounts, no emails, and no tracking. You get a professional-grade terminal with instant access and total anonymity.
+
+It is a clean, powerful, and private ecosystem designed to give you the data you need, exactly when you need it.
